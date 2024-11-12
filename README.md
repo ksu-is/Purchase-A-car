@@ -1,3 +1,3 @@
 # hello-world
- project ideas
-> COMING SOON
+Purchase A car
+> This project will make it possible for the user to see how mcuh they would need to save to purchase a car, if they would need a down payment, their financing options, etc...
