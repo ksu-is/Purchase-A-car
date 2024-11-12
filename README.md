@@ -1,3 +1,3 @@
 # hello-world
  project ideas
-> COMING SOON 
+> COMING SOON
